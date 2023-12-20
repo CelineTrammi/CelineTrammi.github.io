@@ -1,10 +1,212 @@
 [
-  {
-    "Label": "Yes",
-    "Value": "Ja"
-  },
-  {
-    "Label": "No",
-    "Value": "Nei"
-  }
+    {
+        "Label": "Bank",
+        "Value": "BANK",
+        "Verdi_1": "Bank",
+        "Verdi_2": "522.321",
+        "Verdi_3": "BOFREG"
+    },
+    {
+        "Label": "Betalingsforetak",
+        "Value": "BETF",
+        "Verdi_1": "Betalingsforetak",
+        "Verdi_2": "532.21",
+        "Verdi_3": "HVITBET"
+    },
+    {
+        "Label": "Betalingsforetak med begrenset tillatelse",
+        "Value": "BEMEBETI",
+        "Verdi_1": "Betalingsforetak med begrenset tillatelse",
+        "Verdi_2": "532.21",
+        "Verdi_3": "HVITBET"
+    },
+    {
+        "Label": "Depotmottaker",
+        "Value": "DEPOTNY",
+        "Verdi_1": "Depotmottaker",
+        "Verdi_2": "462.6",
+        "Verdi_3": "FOND"
+    },
+    {
+        "Label": "Eiendomsmeglingsforetak",
+        "Value": "EIEMGLFTK",
+        "Verdi_1": "Eiendomsmeglingsforetak",
+        "Verdi_2": "632.12",
+        "Verdi_3": "EMIN"
+    },
+    {
+        "Label": "E-pengeforetak",
+        "Value": "EPENGEF",
+        "Verdi_1": "E-pengeforetak",
+        "Verdi_2": "532.21",
+        "Verdi_3": "HVITBET"
+    },
+    {
+        "Label": "Finansieringsforetak",
+        "Value": "FINF",
+        "Verdi_1": "Finansieringsforetak",
+        "Verdi_2": "532.21",
+        "Verdi_3": "BOFREG"
+    },
+    {
+        "Label": "Finansstiftelse",
+        "Value": "FINSTIFT",
+        "Verdi_1": "Finansstiftelse",
+        "Verdi_2": "532.21",
+        "Verdi_3": "BOFREG"
+    },
+    {
+        "Label": "Forsikringsmeglingsforetak",
+        "Value": "FORMGLFTK",
+        "Verdi_1": "Forsikringsmeglingsforetak",
+        "Verdi_2": "542.22",
+        "Verdi_3": "BOFAT"
+    },
+    {
+        "Label": "Forvalter av alternative investeringsfond (AIFM)",
+        "Value": "FOAVALIN",
+        "Verdi_1": "Forvalter av alternative investeringsfond (AIFM)",
+        "Verdi_2": "482.2",
+        "Verdi_3": "FOND"
+    },
+    {
+        "Label": "Forvaltningsselskap for verdipapirfond",
+        "Value": "FVLTSLSKVP",
+        "Verdi_1": "Forvaltningsselskap for verdipapirfond",
+        "Verdi_2": "462.21",
+        "Verdi_3": "FOND"
+    },
+    {
+        "Label": "Fremmedinkassoforetak",
+        "Value": "FREMINKASO",
+        "Verdi_1": "Fremmedinkassoforetak",
+        "Verdi_2": "642.2",
+        "Verdi_3": "EMIN"
+    },
+    {
+        "Label": "Gjeldsinformasjonsforetak",
+        "Value": "GJELDSINFO",
+        "Verdi_1": "Gjeldsinformasjonsforetak",
+        "Verdi_2": "672",
+        "Verdi_3": "EMIN"
+    },
+    {
+        "Label": "Gjenforsikringsmeglingsforetak",
+        "Value": "GFORMGLFTK",
+        "Verdi_1": "Gjenforsikringsmeglingsforetak",
+        "Verdi_2": "542.22",
+        "Verdi_3": "BOFAT"
+    },
+    {
+        "Label": "Holdingforetak",
+        "Value": "FINANSKONS",
+        "Verdi_1": "Holdingforetak",
+        "Verdi_2": "512.21",
+        "Verdi_3": "BOFREG"
+    },
+    {
+        "Label": "Innskuddspensjonsforetak",
+        "Value": "INNPENF",
+        "Verdi_1": "Innskuddspensjonsforetak",
+        "Verdi_2": "542.22",
+        "Verdi_3": "BOFREG"
+    },
+    {
+        "Label": "Kommunal pensjonskasse mv.",
+        "Value": "KOMMPENKAS",
+        "Verdi_1": "Kommunal pensjonskasse mv.",
+        "Verdi_2": "542.22",
+        "Verdi_3": "BOFREG"
+    },
+    {
+        "Label": "Kredittforetak",
+        "Value": "KREDITTFOR",
+        "Verdi_1": "Kredittforetak",
+        "Verdi_2": "532.21",
+        "Verdi_3": "BOFREG"
+    },
+    {
+        "Label": "Livsforsikringsforetak",
+        "Value": "LIVSFORSIK",
+        "Verdi_1": "Livsforsikringsforetak",
+        "Verdi_2": "542.22",
+        "Verdi_3": "BOFREG"
+    },
+    {
+        "Label": "Oppkjøps-/egeninkassoforetak",
+        "Value": "OPPEGENINF",
+        "Verdi_1": "Oppkjøps-/egeninkassoforetak",
+        "Verdi_2": "642.2",
+        "Verdi_3": "EMIN"
+    },
+    {
+        "Label": "Opplysningsfullmektig",
+        "Value": "OPPLYSNING",
+        "Verdi_1": "Opplysningsfullmektig",
+        "Verdi_2": "532.21",
+        "Verdi_3": "HVITBET"
+    },
+    {
+        "Label": "Privat pensjonskasse",
+        "Value": "PRIVPENKAS",
+        "Verdi_1": "Privat pensjonskasse",
+        "Verdi_2": "542.22",
+        "Verdi_3": "BOFREG"
+    },
+    {
+        "Label": "Skadeforsikringsforetak",
+        "Value": "SKADEFORSI",
+        "Verdi_1": "Skadeforsikringsforetak",
+        "Verdi_2": "542.22",
+        "Verdi_3": "BOFREG"
+    },
+    {
+        "Label": "Tilbyder av virksomhetstjenester",
+        "Value": "TILAVVIR",
+        "Verdi_1": "Tilbyder av virksomhetstjenester",
+        "Verdi_2": "662",
+        "Verdi_3": "HVITBET"
+    },
+    {
+        "Label": "Vekslings- og oppbevaringstjenester for virtuell valuta",
+        "Value": "VEOGOPFOVI",
+        "Verdi_1": "Vekslings- og oppbevaringstjenester for virtuell valuta",
+        "Verdi_2": "552",
+        "Verdi_3": "HVITBET"
+    },
+    {
+        "Label": "Verdipapirforetak",
+        "Value": "FFOR",
+        "Verdi_1": "Verdipapirforetak",
+        "Verdi_2": "452.21",
+        "Verdi_3": "VERDI"
+    },
+    {
+        "Label": "Verdipapirsentral",
+        "Value": "VERDIPAPS",
+        "Verdi_1": "Verdipapirsentral",
+        "Verdi_2": "432.21",
+        "Verdi_3": "INFRA"
+    },
+    {
+        "Label": "Låneformidling",
+        "Value": "LFORMIDL",
+        "Verdi_1": "Låneformidling",
+        "Verdi_2": "532.21",
+        "Verdi_3": "BOFAT"
+    },
+    {
+        "Label": "Markedsoperatør",
+        "Value": "MARKEDSOP",
+        "Verdi_1": "Markedsoperatør",
+        "Verdi_2": "422.21",
+        "Verdi_3": "INFRA"
+    },
+    {
+        "Label": "Administrator etter referanseverdiloven",
+        "Value": "ADMETTREF",
+        "Verdi_1": "Administrator etter referanseverdiloven",
+        "Verdi_2": "682",
+        "Verdi_3": "INFRA"
+    }
 ]
